@@ -1,3 +1,5 @@
+Important note: This version/branch of the app is deprecated and will no longer be supported.
+
 # SA-haveibeenpwned
 
 A Splunk® add-on providing a custom search command _haveibeenpwned_ to query Troy Hunt's haveibeenpwned API (https://haveibeenpwned.com/api/v2/) for known breaches of your (company's) domains or your friend's/family's/enemies'/hardly distantly related someone's/employee's/colleague's mail adresses.
